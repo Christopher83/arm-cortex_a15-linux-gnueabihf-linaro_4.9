@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PKGVERSION="(crosstool-NG 1.20.0 - Linaro GCC 2015.02 - Cortex-A15) "
+PKGVERSION="(crosstool-NG 1.20.0 - Linaro GCC 2015.03 - Cortex-A15) "
 TZVERSION="2.20-2014.11"
 REPORT_BUGS_TO="<http://www.gnu.org/software/libc/bugs.html>"
 
